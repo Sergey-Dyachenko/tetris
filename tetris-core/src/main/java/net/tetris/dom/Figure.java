@@ -48,6 +48,7 @@ public interface Figure {
 
 
         private String name;
+		private String name2;
         private PlotColor color;
 
         Type(String name, PlotColor color) {
