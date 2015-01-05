@@ -22,4 +22,7 @@ public class FigurePattern {
     public int getCenterY() {
         return centerY;
     }
+    public String getPresent() {
+        return present;
+    }
 }
